@@ -1,0 +1,7 @@
+C:\Users\2014812\source\repos\workers\workers\bin\Debug\workers.exe.config
+C:\Users\2014812\source\repos\workers\workers\bin\Debug\workers.exe
+C:\Users\2014812\source\repos\workers\workers\bin\Debug\workers.pdb
+C:\Users\2014812\source\repos\workers\workers\obj\Debug\workers.csprojAssemblyReference.cache
+C:\Users\2014812\source\repos\workers\workers\obj\Debug\workers.csproj.CoreCompileInputs.cache
+C:\Users\2014812\source\repos\workers\workers\obj\Debug\workers.exe
+C:\Users\2014812\source\repos\workers\workers\obj\Debug\workers.pdb
